@@ -12,7 +12,7 @@
         "fetch": [
             {
                 "name": "os", 
-                "url": "http://download.freenas.org/vm-templates/ubuntu-server-16.04-vnc/os.img.gz", 
+                "url": "http://10.0.7.20/os.img.gz", 
                 "sha256": "d73224e26e28f711fc3ecbddae2cfff194be9dd1974e3a644b30e56fb6422788",
                 "size": 1321161313
             }
