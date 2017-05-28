@@ -1,6 +1,6 @@
 {
     "template": {
-        "name": "ubuntu-server-16.04-local",
+        "name": "local-ubnt-vnc-16.04",
         "author": "Wojciech Kloska <shangteus@ixsystems.com>",
         "description": "Ubuntu Server 16.04 with VNC session started automatically",
         "created_at": {
@@ -12,7 +12,7 @@
         "fetch": [
             {
                 "name": "os",
-                "url": "http://10.0.7.20/os.img.gz", 
+                "url": "http://10.0.7.20/local-ubnt-vnc-16.04/os.img.gz",
                 "sha256": "d73224e26e28f711fc3ecbddae2cfff194be9dd1974e3a644b30e56fb6422788",
                 "size": 1321161313
             }
