@@ -12,7 +12,7 @@
         "fetch": [
             {
                 "name": "os",
-                "url": "http://10.0.7.20/local-debian-8.4.0/os.img.gz",
+                "url": "http://10.0.7.20/vm-templates/local-debian-8.4.0/os.img.gz",
                 "sha256": "7ba40506e478c62dfb5e690ced6637fa8d524627cf7273473fc98aae859f317f",
                 "size": 623470415
             }

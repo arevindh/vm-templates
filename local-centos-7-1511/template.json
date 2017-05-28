@@ -13,7 +13,7 @@
         "fetch": [
             {
                 "name": "os",
-                "url": "http://10.0.7.20/local-centos-7-1511/os.img.gz",
+                "url": "http://10.0.7.20/vm-templates/local-centos-7-1511/os.img.gz",
                 "sha256": "8a4c5ce67c5185af2d89241510792ae08daeaa0fc29a04c962db187929baec34",
                 "size": 426981794
             }
