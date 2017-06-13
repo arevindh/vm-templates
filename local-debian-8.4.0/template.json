@@ -35,14 +35,6 @@
             }
         },
         {
-            "type": "NIC",
-            "name": "nic 2",
-            "properties": {
-                "mode": "BRIDGED",
-                "bridge": "default"
-            }
-        },
-        {
             "type": "DISK",
             "name": "os",
             "properties": {
